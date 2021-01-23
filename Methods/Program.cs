@@ -24,6 +24,8 @@ namespace Methods
 
             Product[] products = new Product[] {product1,product2 };
 
+            
+
             foreach (Product product in products )
             {
                 Console.WriteLine(product.Name);
