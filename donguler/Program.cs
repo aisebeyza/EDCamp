@@ -1,6 +1,6 @@
 ﻿using System;
 
-namespace donguler
+namespace loops
 {
     class Program
     {
